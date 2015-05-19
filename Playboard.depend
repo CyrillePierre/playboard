@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1269037761 source:i:\mes documents\playboard\filter.cpp
+	<math.h>
+	"config.h"
+	"Filter.h"
+
+1280684518 i:\mes documents\playboard\config.h
+	<AL/al.h>
+	<AL/alc.h>
+
+1268863693 i:\mes documents\playboard\filter.h
+
+1268334850 source:i:\mes documents\playboard\interface.cpp
+
+1268334850 source:i:\mes documents\playboard\key.cpp
+
+1268334850 source:i:\mes documents\playboard\keyboard.cpp
+	"Keyboard.h"
+
+1268334850 i:\mes documents\playboard\keyboard.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+
+1268334850 source:i:\mes documents\playboard\lfo.cpp
+
+1280404810 source:i:\mes documents\playboard\osc.cpp
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"config.h"
+	"Osc.h"
+
+1268769939 i:\mes documents\playboard\osc.h
+
+1268783229 source:i:\mes documents\playboard\adsr.cpp
+	"config.h"
+	"Adsr.h"
+
+1269087603 i:\mes documents\playboard\adsr.h
+
+1280686112 source:i:\mes documents\playboard\main.cpp
+	"config.h"
+	<stdlib.h>
+	<time.h>
+	"Osc.h"
+	"Adsr.h"
+	"Filter.h"
+
